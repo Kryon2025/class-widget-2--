@@ -1,0 +1,12 @@
+{
+  "id": "com.time.model",
+  "name": "时间组件",
+  "version": "1.0.0",
+  "api_version": "~=0.4.2",
+  "entry": "main.py",
+  "author": "松峰",
+  "description": "让class widget 2时间显示更丰富",
+  "url": "",
+  "readme": "README.md",
+  "icon": "icon.png"
+}
