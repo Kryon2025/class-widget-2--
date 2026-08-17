@@ -26,8 +26,7 @@ jobs:
         uses: dtolnay/rust-toolchain@stable
         with:
           toolchain: stable
-          profile: minimal
-          override: true
+          # 删掉了 profile: minimal 和 override: true
       
       - name: Install git-cliff
         run: |
