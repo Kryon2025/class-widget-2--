@@ -1,5 +1,5 @@
 {
-  "id": "com.time.model",
+  "id": "com.time.component",
   "name": "时间组件",
   "version": "1.0.0",
   "api_version": "~=0.4.2",
