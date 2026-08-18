@@ -1,12 +1,12 @@
 {
-  "id": "com.time.component",
-  "name": "时间组件",
-  "version": "v1.0.3",
-  "api_version": "~=0.4.2",
-  "entry": "main.py",
-  "author": "松峰",
-  "description": "让class widget 2时间显示更丰富",
-  "url": "https://github.com/Kryon2025/class-widget-2--time_component.git",
-  "readme": "README.md",
-  "icon": "icon.png"
+ "id": "com.time.component",
+ "name": "时间组件",
+ "version": "v1.0.4",
+ "api_version": "~=0.6.0",
+ "entry": "main.py",
+ "author": "松峰",
+ "description": "让class widget 2时间显示更丰富",
+ "url": "https://github.com/Kryon2025/class-widget-2--time_component.git",
+ "readme": "README.md",
+ "icon": "icon.png"
 }

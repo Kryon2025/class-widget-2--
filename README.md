@@ -22,3 +22,8 @@
 1.  可以自由选择日期与星期的展示方式
 2.  可以选择是否开启动画，避免课堂干扰
 3.  自由选择组件展示内容
+
+## SDK 版本
+
+本插件已升级适配 Class Widgets 2 SDK **0.6.0**（`cwplugin.json` 中 `api_version: ~=0.6.0`），
+使用官方 `ClassWidgets.SDK` 接口（`CW2Plugin` / `PluginAPI`：`api.widgets` / `api.ui` / `api.notification` / `api.schedule` / `api.config` / `api.runtime` 等）。
