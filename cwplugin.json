@@ -1,7 +1,7 @@
 {
  "id": "com.time.component",
  "name": "时间组件",
- "version": "v1.0.4",
+ "version": "v1.0.5",
  "api_version": "~=0.6.0",
  "entry": "main.py",
  "author": "松峰",
