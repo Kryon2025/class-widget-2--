@@ -1,11 +1,11 @@
 {
  "id": "com.time.component",
  "name": "时间组件",
- "version": "v1.0.5",
+ "version": "1.0.5",
  "api_version": "~=0.6.0",
  "entry": "main.py",
  "author": "松峰",
- "description": "让class widget 2时间显示更丰富",
+ "description": "让class widget 2时间显示更丰富(此插件由Deepseek V4 Flash编写)",
  "url": "https://github.com/Kryon2025/class-widget-2--time_component.git",
  "readme": "README.md",
  "icon": "icon.png"

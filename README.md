@@ -1,7 +1,7 @@
 # Class widget 2 时间组件
 
 #### 介绍
-原有class widget 2 可编辑的内容较少，使用Deepseek另外开发插件，给时钟显示增加更多功能
+原有class widget 2 可编辑的内容较少，使用Deepseek V4 Flash开发插件，给时钟显示增加更多功能
 
 #### 安装教程
 
